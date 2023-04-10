@@ -22,5 +22,9 @@ namespace WebApplication1.Controllers
         {
             return View(categorias);
         }
+        public ActionResult Create()
+        {
+            return View();
+        }
     }
 }
