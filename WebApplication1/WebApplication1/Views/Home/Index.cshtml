@@ -22,7 +22,7 @@
                 @foreach (var item in Model.fabr)
                 {
                     <td>
-                        @Html.DisplayFor(modelItem => item.Nome)
+                        @Html.ActionLink(item.Nome, "Index", "Home", item.FabricanteId)
                     </td>
                 }
             </tr>
@@ -38,13 +38,20 @@
                 @foreach (var item in Model.cate)
                 {
                     <td>
-                        @Html.DisplayFor(modelItem => item.Nome)
+                        @Html.ActionLink(item.Nome, "Index", "Home", item.CategoriaId)
                     </td>
                 }
             </tr>
         </table>
     </div>
+
 </body>
+@if (Model.prods != null)
+{
+    @Html.Partial("~/Views/Home/ListarCate.cshtml", Model.prods.ToList())
+    @Html.Partial("~/Views/Home/ListarFabr.cshtml", Model.prods.ToList())
+}
+
 </html>
 @section styles{
     <link href="@Url.Content("~/content/DataTables-1.10.2/css/dataTables.bootstrap.css")" rel="stylesheet" />

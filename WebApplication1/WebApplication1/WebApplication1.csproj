@@ -237,6 +237,8 @@
     <Content Include="Views\Fabricantes\Details.cshtml" />
     <Content Include="Views\Produtos\_PorFabricante.cshtml" />
     <Content Include="Views\Produtos\_PorCategoria.cshtml" />
+    <Content Include="Views\Home\ListarCate.cshtml" />
+    <Content Include="Views\Home\ListarFabr.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
