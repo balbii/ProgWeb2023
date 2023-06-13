@@ -17,9 +17,17 @@ namespace WebApplication1.Controllers
             h.fabr = context.Fabricantes.OrderBy(c => c.Nome);
             h.cate = context.Categorias.OrderBy(c => c.Nome);
             if (FabId != null)
+            {
+                h.filtro = "Fabricante";
                 h.prods = context.Produtos.Where(p => p.FabricanteId == FabId).OrderBy(c => c.Nome);
+            }
+                
             if (CatId != null)
+            {
+                h.filtro = "Categoria";
                 h.prods = context.Produtos.Where(p => p.CategoriaId == CatId).OrderBy(c => c.Nome);
+            }
+                
             return View(h);
         }
     }

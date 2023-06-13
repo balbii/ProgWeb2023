@@ -22,7 +22,7 @@
                 @foreach (var item in Model.fabr)
                 {
                     <td>
-                        @Html.ActionLink(item.Nome, "Index", "Home", item.FabricanteId)
+                        @Html.ActionLink(item.Nome, "Index", "Home", new { FabId = item.FabricanteId }, null)
                     </td>
                 }
             </tr>
@@ -38,7 +38,7 @@
                 @foreach (var item in Model.cate)
                 {
                     <td>
-                        @Html.ActionLink(item.Nome, "Index", "Home", item.CategoriaId)
+                        @Html.ActionLink(item.Nome, "Index", "Home", new { CatId = item.CategoriaId }, null)
                     </td>
                 }
             </tr>
@@ -46,11 +46,15 @@
     </div>
 
 </body>
-@if (Model.prods != null)
+@if ((Model.prods != null) && (Model.filtro == "Fabricante"))
 {
-    @Html.Partial("~/Views/Home/ListarCate.cshtml", Model.prods.ToList())
-    @Html.Partial("~/Views/Home/ListarFabr.cshtml", Model.prods.ToList())
+    @Html.Partial("~/Views/Produtos/_PorFabricante.cshtml", Model.prods.ToList())
 }
+@if ((Model.prods != null) && (Model.filtro == "Categoria"))
+{
+    @Html.Partial("~/Views/Produtos/_PorCategoria.cshtml", Model.prods.ToList())
+}
+
 
 </html>
 @section styles{
