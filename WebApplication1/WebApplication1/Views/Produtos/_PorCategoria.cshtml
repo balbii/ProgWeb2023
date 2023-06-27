@@ -21,6 +21,15 @@
                 {
                     <tr>
                         <td>
+                            <div class="panel-body">
+                                <img class="img-thumbnail"
+                                     src="@Url.Action("GetLogotipo2", "Produtos",
+new { id = item.ProdutoId })"
+                                     style="display:block;
+margin-left:auto; margin-right:auto; width:100px" />
+                            </div>
+                        </td>
+                        <td>
                             @Html.DisplayFor(modelItem => item.ProdutoId)
                         </td>
                         <td>

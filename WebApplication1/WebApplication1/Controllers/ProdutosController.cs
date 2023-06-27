@@ -122,6 +122,7 @@ namespace WebApplication1.Controllers
                     {
                         produto.LogotipoMimeType = logotipo.ContentType;
                         produto.Logotipo = SetLogotipo(logotipo);
+
                         produto.NomeArquivo = logotipo.FileName;
                         produto.TamanhoArquivo = logotipo.ContentLength;
 
