@@ -1,7 +1,9 @@
-﻿using System;
+﻿using Modelo.Cadastros;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Modelo.Tabelas;
 
 namespace WebApplication1.Models
 {

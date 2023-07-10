@@ -1,7 +1,7 @@
-﻿@model IEnumerable<WebApplication1.Models.Fabricante>
+﻿@model IEnumerable <Modelo.Cadastros.Fabricante>
 @{
-Layout = "~/Views/Shared/_Layout.cshtml";
-ViewBag.Title = "Listagem de FABRICANTES";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Listagem de FABRICANTES";
 }
 @if (@TempData["Message"] != null)
 {
@@ -65,7 +65,7 @@ ViewBag.Title = "Listagem de FABRICANTES";
         });
         $(document).ready(function () {
             $('li').removeClass("active");
-        $('#liFabricantes').addClass("active");
+            $('#liFabricantes').addClass("active");
         });
     </script>
 }

@@ -1,0 +1,15 @@
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\Servico.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\Servico.pdb
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\Modelo.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\Persistencia.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\EntityFramework.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\Modelo.pdb
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\Modelo.dll.config
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\Persistencia.pdb
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\Persistencia.dll.config
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\bin\Debug\EntityFramework.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\obj\Debug\Servico.csproj.CopyComplete
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\obj\Debug\Servico.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Servico\obj\Debug\Servico.pdb
