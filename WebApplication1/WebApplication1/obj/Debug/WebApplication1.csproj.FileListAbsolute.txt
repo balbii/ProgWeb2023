@@ -161,7 +161,8 @@ C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebAppli
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\pt-br\System.Web.Webpages.Razor.resources.dll
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache

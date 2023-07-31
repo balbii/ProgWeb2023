@@ -59,3 +59,5 @@ C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\b
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.csproj.CopyComplete
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.dll
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.pdb
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
