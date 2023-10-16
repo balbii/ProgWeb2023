@@ -14,8 +14,7 @@ namespace Persistencia.DAL.Cadastros
         private EFContext context = new EFContext();
         public IQueryable<Produto> ObterProdutosClassificadosPorNome()
         {
-            return context.Produtos.Include(c => c.Categoria).Include(f => f.Fabricante).
-            OrderBy(n => n.Nome);
+            return context.Produtos.Include(c => c.Categoria).Include(f => f.Fabricante).OrderBy(n => n.Nome);
         }
         public Produto ObterProdutoPorId(long id)
         {

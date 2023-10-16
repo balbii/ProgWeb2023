@@ -11,7 +11,7 @@ namespace WebApplication1.Migrations
         {
             AutomaticMigrationsEnabled = true; 
             AutomaticMigrationDataLossAllowed = true;
-            ContextKey = "Persistencia.Contexts.EFContext";
+            ContextKey = "WebApplication1.Contexts.EFContext";
         }
 
         protected override void Seed(WebApplication1.Models.EFContext context)

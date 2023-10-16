@@ -19,8 +19,7 @@ namespace Persistencia.Contexts
             new DropCreateDatabaseIfModelChanges<EFContext>());
         }*/
         public EFContext() : base("Asp_Net_MVC_CS") {
-            Database.SetInitializer<EFContext>(new
-        MigrateDatabaseToLatestVersion<EFContext, Configuration>());
+  //          Database.SetInitializer<EFContext>(new MigrateDatabaseToLatestVersion<EFContext, Configuration>());
         }
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Fabricante> Fabricantes { get; set; }
@@ -28,7 +27,7 @@ namespace Persistencia.Contexts
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
+            //modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
     }
     

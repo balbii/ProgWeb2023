@@ -185,7 +185,7 @@ namespace WebApplication1.Controllers
             Produto produto = produtoServico.ObterProdutoPorId(id);
             if (produto != null)
             {
-                if (produto.NomeArquivo != null)
+                if (produto.NomeArquivo != null && produto.TamanhoArquivo != null)
                 {
                     var bytesLogotipo = new byte[produto.TamanhoArquivo];
                     FileStream fileStream = new
