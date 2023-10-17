@@ -117,7 +117,7 @@ C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Modelo\bin\Debu
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Modelo\bin\Debug\EntityFramework.xml
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Modelo\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Modelo\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.csproj.CopyComplete
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.dll
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.pdb
+C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
