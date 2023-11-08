@@ -30,3 +30,20 @@ C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Persistencia\ob
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.dll
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.pdb
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\Modelo.dll
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\Modelo.dll.config
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.Migrations.InitialCreate.resources
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.csproj.GenerateResource.cache
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Persistencia\obj\Debug\Persistencia.pdb

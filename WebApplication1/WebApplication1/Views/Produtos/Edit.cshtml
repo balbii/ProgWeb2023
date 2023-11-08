@@ -20,6 +20,7 @@ new { enctype = "multipart/form-data" }))
         @Html.HiddenFor(model => model.TamanhoArquivo)
         <div class="col-md-offset-7 col-md-5">
             <div class="form-group">
+                <a href="~/Views/Produtos/Edit.cshtml">~/Views/Produtos/Edit.cshtml</a>
                 @Html.TextBox("logotipo", "", new { type = "file" }) <br />
             </div>
             <div class="form-group">
