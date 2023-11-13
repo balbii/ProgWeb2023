@@ -164,7 +164,6 @@ C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebAppli
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
-C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.InitialCreate.resources
 C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.cache
 C:\Users\20211011110030\Source\Repos\ProgWeb2023\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
@@ -350,3 +349,24 @@ C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplic
 C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache

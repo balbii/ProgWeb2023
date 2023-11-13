@@ -184,3 +184,5 @@ C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\ob
 C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.csproj.CopyComplete
 C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.dll
 C:\Users\Renan Balbino\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.pdb
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\20211011110030\Source\Repos\balbii\ProgWeb2023\WebApplication1\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
