@@ -9,7 +9,7 @@ using System.Web;
 using WebApplication1.DAL;
 using WebApplication1.Infraestrutura;
 
-namespace WebApplication1.App_Start
+namespace WebApplication1
 {
     public class IdentityConfig
     {
